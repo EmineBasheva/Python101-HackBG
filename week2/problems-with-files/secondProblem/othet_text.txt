@@ -1,0 +1,4 @@
+Hi.
+It is other file text.
+:)
+
